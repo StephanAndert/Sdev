@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sdev.Shooting", "Sdev.Shooting\Sdev.Shooting.csproj", "{03E15075-DCF6-4418-A406-0529F4B56CC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sdev.Shooting.Entities", "Sdev.Shooting.Entities\Sdev.Shooting.Entities.csproj", "{C23DB94A-6446-46B8-BCF1-A1C95D1D0D6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{03E15075-DCF6-4418-A406-0529F4B56CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03E15075-DCF6-4418-A406-0529F4B56CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03E15075-DCF6-4418-A406-0529F4B56CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C23DB94A-6446-46B8-BCF1-A1C95D1D0D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C23DB94A-6446-46B8-BCF1-A1C95D1D0D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C23DB94A-6446-46B8-BCF1-A1C95D1D0D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C23DB94A-6446-46B8-BCF1-A1C95D1D0D6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
